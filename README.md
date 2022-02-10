@@ -4,7 +4,7 @@ I am a full-stack software developer pursuing Bachelor degree in Computer Scienc
 
 My areas of greatest strength are in Java, C++ and web development - HTML5, CSS3, JavaScript. I enjoy building applications that revolve around helping people make effective use of their time, maintain a routine, expand the limits of focus-work and aid them in pursuing a productive and meaningful life. I am currently working on a webapp that is geared towards simplifying the life domains. 
 
-Currently I'm learning MERN (mongo, express, react, node).
+Currently I'm learning React
 
 My LinkedIn: https://www.linkedin.com/in/karansingh-cs/
 
