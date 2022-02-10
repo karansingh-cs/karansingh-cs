@@ -7,3 +7,18 @@ My areas of greatest strength are in Java, C++ and web development - HTML5, CSS3
 Currently I'm learning MERN (mongo, express, react, node).
 
 My LinkedIn: https://www.linkedin.com/in/karansingh-cs/
+
+> Languages
+   Java, c++, JavaScript, Python, CSS, HTML
+    
+> Database Systems
+   MySQL, MongoDB
+   
+> Version Control
+   Git, GitHub
+
+> Terminals / Environments
+   cmd, GitBash, node.js
+
+> Favorite Tech Areas
+   Web Development
