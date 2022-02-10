@@ -8,17 +8,17 @@ Currently I'm learning MERN (mongo, express, react, node).
 
 My LinkedIn: https://www.linkedin.com/in/karansingh-cs/
 
-> Languages
+> Languages:
    Java, c++, JavaScript, Python, CSS, HTML
     
-> Database Systems
+> Database Systems:
    MySQL, MongoDB
    
-> Version Control
+> Version Control:
    Git, GitHub
 
-> Terminals / Environments
+> Terminals / Environments:
    cmd, GitBash, node.js
 
-> Favorite Tech Areas
+> Favorite Tech Areas:
    Web Development
