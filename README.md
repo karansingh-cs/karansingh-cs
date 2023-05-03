@@ -13,7 +13,7 @@ Currently I'm learning React
 My LinkedIn: https://www.linkedin.com/in/karansingh-cs/
 
 > Languages: 
-   Java, C++, C#, Python, CSS, HTML, JavaScript
+   C++, C#, Java, HTML, CSS, JavaScript
     
 > Database Systems: 
    MySQL, SQL
@@ -25,4 +25,4 @@ My LinkedIn: https://www.linkedin.com/in/karansingh-cs/
    cmd, GitBash, node.js
 
 > Favorite Tech Areas: 
-   Web Development
+   Web Development, Back end Development
