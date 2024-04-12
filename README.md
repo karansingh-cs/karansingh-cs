@@ -6,8 +6,6 @@ In my current Software Engineer role, I am focused on developing powerful and re
 
 Previously, during my internship at Moonshot Solutions, I played a key role in the development of an online nurse staffing tool using C# .NET, ASP.NET, and Visual Basic. I contributed to significant cost savings for the company by implementing Azure functions with Azure BLOB storage, resulting in a 15% decrease in database expenses. Additionally, I collaborated with a team of developers to automate offline SQL jobs and integrate them into scheduled Azure Functions and MVC functions.
 
-Excited to share my journey through my first Portfolio Site: http://karansingh.live/
-
 Connect with me on LinkedIn to explore collaboration opportunities and discuss all things tech: https://www.linkedin.com/in/karansingh-cs/
 
 > Languages: 
