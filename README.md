@@ -1,15 +1,17 @@
 👋 Hello, I’m Karan.
 
-A software engineer currently based in Kansas City. I bring extensive experience in application development, specializing in technologies such as C#, .NET, ASP.NET, C++, MFC and more. I'm an aspiring programmer who is always excited about the opportunities to engineer technologies, to learn and enhance my skillset.
+A software engineer with extensive experience in full-stack application development, specializing in C#, .NET Core, SQL, React, and Azure technologies. As an aspiring programmer, I am passionate about learning new skills, and continuously enhancing my technical expertise.
 
-In my current Software Engineer role, I am focused on developing powerful and responsive desktop applications with rich user interfaces. I leverage my expertise in C++ and MFC to develop feature-rich and performance-critical applications, including multi-document applications with MFC modal and modeless dialog boxes.
+In my current Software Engineer role, I work with C++, MFC, C# .NET Core, and SQL to develop performance-critical applications with rich user interfaces. I focus on creating robust desktop applications that meet the needs of the business while leveraging my technical skills for efficiency and performance.
 
-Previously, during my internship at Moonshot Solutions, I played a key role in the development of an online nurse staffing tool using C# .NET, ASP.NET, and Visual Basic. I contributed to significant cost savings for the company by implementing Azure functions with Azure BLOB storage, resulting in a 15% decrease in database expenses. Additionally, I collaborated with a team of developers to automate offline SQL jobs and integrate them into scheduled Azure Functions and MVC functions.
+Additionally, I’ve worked on side projects and currently working project - the Pickleball Tournament Organizer, a full-stack web application using React.js and ASP.NET Core. This project involves managing player registration, match scheduling, and real-time updates, showcasing my full-stack capabilities outside of my primary role.
+
+Previously, during my internship at Moonshot Solutions, I contributed to the development of an online nurse staffing tool using C# .NET, ASP.NET, and Visual Basic. I helped implement Azure Functions with Azure BLOB storage, resulting in a 15% decrease in database expenses. Additionally, I worked with a team to automate SQL jobs and integrate them into scheduled Azure Functions, enhancing the tool’s efficiency.
 
 Connect with me on LinkedIn to explore collaboration opportunities and discuss all things tech: https://www.linkedin.com/in/karansingh-cs/
 
 > Languages: 
-   C# .Net, C++, HTML5, CSS, JavaScript 
+   C# .Net, C++, HTML5, CSS, JavaScript, React, SQL
     
 > Database Systems: 
    MySQL, MS SQL Server
@@ -18,5 +20,5 @@ Connect with me on LinkedIn to explore collaboration opportunities and discuss a
    Git, GitHub, Azure
 
 > Tools/Services: 
-   Back end Development, Visual Studio
+   Visual Studio, VS Code
 
