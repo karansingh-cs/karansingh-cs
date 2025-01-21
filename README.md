@@ -11,13 +11,13 @@ Previously, during my internship at Moonshot Solutions, I contributed to the dev
 Connect with me on LinkedIn to explore collaboration opportunities and discuss all things tech: https://www.linkedin.com/in/karansingh-cs/
 
 > Languages: 
-   C# .Net, C++, HTML5, CSS, JavaScript, React, SQL
+   C# ,.Net Core, ASP.NET, C++, HTML5, CSS, JavaScript, React, SQL
     
 > Database Systems: 
-   MySQL, MS SQL Server
+   MS SQL Server, SMSS, Azure Data Studio
    
 > Version Control: 
-   Git, GitHub, Azure
+   Git, GitHub, Azure DevOps
 
 > Tools/Services: 
    Visual Studio, VS Code
