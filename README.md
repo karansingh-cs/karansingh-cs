@@ -1,24 +1,35 @@
-👋 Hello, I’m Karan.
+# 👋 Hi, I'm Karan
 
-A software engineer with extensive experience in full-stack application development, specializing in C#, .NET Core, SQL, React, and Azure technologies. As an aspiring programmer, I am passionate about learning new skills, and continuously enhancing my technical expertise.
+**Software Engineer | C# • .NET Core • ASP.NET • C++ | React | Azure | SQL | TwinCAT | Git & DevOps | Agile**
 
-In my current Software Engineer role, I work with C++, MFC, C# .NET Core, and SQL to develop performance-critical applications with rich user interfaces. I focus on creating robust desktop applications that meet the needs of the business while leveraging my technical skills for efficiency and performance.
+💼 **3+ years** of professional experience as Software Engineer | 50% throughput gains • 99.5% accuracy • $35k/mo savings  
+🎓 **MS in Computer Science** (in progress) | **BS Computer Science** (Honor's List)  
+🔭 Currently building: **Pickleball Court Booking Platform** (C# .NET + ASP.NET + React Native + SQL + Azure) - This project involves managing player registration, match scheduling, and real-time updates, showcasing my full-stack capabilities outside of my primary role.
+🌱 Learning: Advanced cloud architecture, microservices, system design  
 
-Additionally, I’ve worked on side projects and currently working project - the Pickleball Tournament Organizer, a full-stack web application using React.js and ASP.NET Core. This project involves managing player registration, match scheduling, and real-time updates, showcasing my full-stack capabilities outside of my primary role.
+## 🛠️ Tech Stack
 
-Previously, during my internship at Moonshot Solutions, I contributed to the development of an online nurse staffing tool using C# .NET, ASP.NET, and Visual Basic. I helped implement Azure Functions with Azure BLOB storage, resulting in a 15% decrease in database expenses. Additionally, I worked with a team to automate SQL jobs and integrate them into scheduled Azure Functions, enhancing the tool’s efficiency.
+> **Development:**  
+C#, .NET 8, .NET Core, ASP.NET Core, Entity Framework Core, MVC, LINQ, C++, MFC, Visual Basic
 
-Connect with me on LinkedIn to explore collaboration opportunities and discuss all things tech: https://www.linkedin.com/in/karansingh-cs/
+> **Web:**  
+JavaScript, TypeScript, React.js, React Native, HTML5, CSS3, Bootstrap
 
-> Languages: 
-   C# ,.Net Core, ASP.NET, C++, HTML5, CSS, JavaScript, React, SQL
-    
-> Database Systems: 
-   MS SQL Server, SMSS, Azure Data Studio
-   
-> Version Control: 
-   Git, GitHub, Azure DevOps
+> **Cloud:**  
+Microsoft Azure (App Service, Functions, SQL Database, Blob Storage, DevOps, Application Insights), Serverless Architecture, Microservices, CI/CD
 
-> Tools/Services: 
-   Visual Studio, VS Code
+> **Database Systems:**  
+Azure SQL Database, MS SQL Server, T-SQL, MySQL, Azure Data Studio, Database Design, Query Optimization
 
+> **Tools & DevOps:**  
+Git/GitHub, Azure DevOps, Visual Studio, VS Code, Postman, Swagger/OpenAPI, CI/CD Pipelines, Agile/Scrum, TwinCAT, Python
+
+> **APIs & Security:**  
+RESTful APIs, JWT Authentication, OAuth2.0, Google Maps API, OpenAI API
+
+> *"Building reliable, scalable software that solves real-world problems."*
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karansingh-cs)
+[![Email](https://img.shields.io/badge/Email-00776G?style=for-the-badge&logo=outlook&logoColor=white)](mailto:karanbir97@outlook.com)
