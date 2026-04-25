@@ -2,7 +2,7 @@
 
 **Software Engineer | C# • .NET Core • ASP.NET • C++ | React | Azure | SQL | TwinCAT | Git & DevOps | Agile**
 
-💼 **3+ years** of professional experience as Software Engineer | 50% throughput gains • 99.5% accuracy • $35k/mo savings  
+💼 **4 years** of professional experience as Software Engineer in Controls & Automation | 50% throughput gains • 99.5% accuracy • $35k/mo savings  
 🎓 **MS in Computer Science** (in progress) | **BS Computer Science** (Honor's List)  
 🔭 Currently building: **Pickleball Court Booking Platform** (C# .NET + ASP.NET + React Native + SQL + Azure) - This project involves managing player registration, match scheduling, and real-time updates, showcasing my full-stack capabilities outside of my primary role.
 🌱 Learning: Advanced cloud architecture, microservices, system design  
