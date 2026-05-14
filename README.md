@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Karan
 
-**Software Engineer | C# • .NET Core • ASP.NET • C++ | React | Azure | SQL | TwinCAT | Git & DevOps | Agile**
+**Software Engineer | C# • ASP.NET • C++ | React | Azure | SQL | TwinCAT | Git & DevOps | Agile**
 
-💼 **4 years** of professional experience as Software Engineer in Controls & Automation | 50% throughput gains • 99.5% accuracy • $35k/mo savings  
+💼 **4+ years** of professional experience as Software Engineer in Controls & Automation | 50% throughput gains • 99.5% accuracy • $35k/mo savings  
 🎓 **MS in Computer Science** (in progress) | **BS Computer Science** (Honor's List)  
 🔭 Currently building: **Pickleball Court Booking Platform** (C# .NET + ASP.NET + React Native + SQL + Azure) - This project involves managing player registration, match scheduling, and real-time updates, showcasing my full-stack capabilities outside of my primary role.
 🌱 Learning: Advanced cloud architecture, microservices, system design  
@@ -16,10 +16,7 @@ C#, .NET 8, .NET Core, ASP.NET Core, Entity Framework Core, MVC, LINQ, C++, MFC,
 JavaScript, TypeScript, React.js, React Native, HTML5, CSS3, Bootstrap
 
 > **Cloud:**  
-Microsoft Azure (App Service, Functions, SQL Database, Blob Storage, DevOps, Application Insights), Serverless Architecture, Microservices, CI/CD
-
-> **Database Systems:**  
-Azure SQL Database, MS SQL Server, T-SQL, MySQL, Azure Data Studio, Database Design, Query Optimization
+Microsoft Azure (App Service, Functions, SQL Database, Blob Storage, DevOps, Application Insights), Serverless Architecture, Microservices
 
 > **Tools & DevOps:**  
 Git/GitHub, Azure DevOps, Visual Studio, VS Code, Postman, Swagger/OpenAPI, CI/CD Pipelines, Agile/Scrum, TwinCAT, Python
